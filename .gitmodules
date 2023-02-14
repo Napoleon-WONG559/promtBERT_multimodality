@@ -1,0 +1,3 @@
+[submodule "basePromptBERT"]
+	path = basePromptBERT
+	url = https://github.com/HKUST-KnowComp/FolkScope.git
