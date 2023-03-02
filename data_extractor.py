@@ -13,3 +13,5 @@ class DataExtractor(object):
                 if(count==6836):
                     break
         self.data=record
+
+    
